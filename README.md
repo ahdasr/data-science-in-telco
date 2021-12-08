@@ -1,6 +1,6 @@
 #### data-science-in-telco
 # Digital Talent Scholarship KOMINFO - DQLab
-<p>Data Engineer, Professional Academy | Data Science in Telco: Data Cleansing</p)
+<p>Data Engineer, Professional Academy | Data Science in Telco: Data Cleansing</p>
   <p>1. Mencari ID pelanggan (Nomor telepon) yang valid</p>
   <p>2. Mengatasi data-data yang masih kosong (Missing Values)</p>
   <p>3. Mengatasi Nilai-Nilai Pencilan (Outlier) dari setiap Variable</p>
